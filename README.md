@@ -96,7 +96,7 @@ Several output files will be saved in the directory `./checkpoint`.
 
 
 ## Citation
-Please cite our paper if you find it useful for your research.:smile:
+Please cite our paper if you find it useful for your research.😀
 
 ```bibtex
 @inproceedings{cheng2024lotus,
